@@ -1,0 +1,8 @@
+body {
+  min-height: 500px;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+.featurette-divider {
+  margin: 40px 200px;
+}
